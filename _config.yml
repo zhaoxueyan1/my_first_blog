@@ -14,14 +14,21 @@ author-pic: timg.jpg
 about-author: 这是我的第一个博客，虽然很简陋呀但是我也尽量试着做好吧，加油！是时候起一个英文名了，就叫RainS吧，嗯就是这样。
 
 # Contact links
+<<<<<<< HEAD
 email: zhaoxueyan1@outlook.com# Add your Email address
 email: zhaoxueyan1@outlook.com # Add your Email address
 phone: 13180377082# Add your Phone number
 website: zhaoxueyan1.github.io/my_first_blog/# Add your website, do not add http://
+=======
+email: zhaoxueyan1@outlook.com # Add your Email address
+email: zhaoxueyan1@outlook.com # Add your Email address
+phone: 13180377082 # Add your Phone number
+website: zhaoxueyan1.github.io/my_first_blog/ # Add your website, do not add http://
+>>>>>>> 3c0802cf603cc6b26a098d39f18e5bb4307ba6f3
 linkedin: # Add your Linkedin handle
 github: zhaoxueeyan@outlook.com # Add your Github handle
 twitter: '@artemsheludko_' # Add your Twitter handle
-facebook: None# Add your Facebook handle
+facebook: None # Add your Facebook handle
 instagram: # Add your Instagram handle
 pinterest: # Add your Pinterest handle
 
